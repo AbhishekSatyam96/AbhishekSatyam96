@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekSatyam96
+- 👋 Hi, I’m @AbhishekSatyam
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on React.
 <!--
